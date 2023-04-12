@@ -46,4 +46,4 @@ const toggleFavorites = useCallback(async () => {
   )
 }
 
-export default FavoriteButton;
+export default FavoriteButton
