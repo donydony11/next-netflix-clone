@@ -42,7 +42,7 @@ const Profiles = () => {
                                 text-2xl
                                 text-center
                                 group-hover:text-white">
-                                    {user.name}
+                                    {user?.name}
                                 </div>
 
                             </div>
